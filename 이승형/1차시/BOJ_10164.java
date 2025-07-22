@@ -3,7 +3,7 @@ package seunghyeong.week01.d_20250720;
 import java.io.*;
 import java.util.*;
 
-public class P10164 {
+public class BOJ_10164 {
     static int N, M, K;
     static int [][] arr;
     static int [] dx = {0, -1};
