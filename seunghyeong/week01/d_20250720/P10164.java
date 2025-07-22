@@ -20,19 +20,21 @@ public class P10164 {
         if (K == 0) {
             result = getResult(1, 1, N, M);
         }else{
-            getResult(1, 1, K/M+1, K%M);
-            for (int i = 0; i <= N; i++) {
-                System.out.println(Arrays.toString(arr[i]));
+            int nx = 0;
+            int ny = 0;
+            if(K%M!=0){
+                nx = K/M+1;
+                ny = K%M;
             }
-            System.out.println("============");
-            int toEnd = getResult(K/M+1, K%M, N,M);
-            for (int i = 0; i <= N; i++) {
-                System.out.println(Arrays.toString(arr[i]));
+            else{
+                nx = K/M;
+                ny = M;
             }
+            getResult(1, 1, nx, ny);
+            int toEnd = getResult(nx, ny, N,M);
+
             result = toEnd;
         }
-
-
         System.out.println(result);
     }
 
