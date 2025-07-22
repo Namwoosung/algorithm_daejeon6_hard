@@ -17,23 +17,20 @@ public class BOJ_10164 {
         K = Integer.parseInt(str.nextToken());
         arr = new int[N+1][M+1];
         int result = 0;
+
         if (K == 0) {
             result = getResult(1, 1, N, M);
         }else{
-            int nx = 0;
-            int ny = 0;
-            if(K%M!=0){
-                nx = K/M+1;
-                ny = K%M;
-            }
-            else{
+            int nx = K/M+1;
+            int ny = K%M;
+            if(K%M==0){
                 nx = K/M;
                 ny = M;
             }
-            getResult(1, 1, nx, ny);
-            int toEnd = getResult(nx, ny, N,M);
 
-            result = toEnd;
+            getResult(1, 1, nx, ny);
+            result = getResult(nx, ny, N,M);
+
         }
         System.out.println(result);
     }
