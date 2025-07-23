@@ -40,3 +40,5 @@ public class BOJ_1138 {
 		System.out.println(sb);
 	}
 }
+
+
