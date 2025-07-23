@@ -6,20 +6,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
-*
-
-!.gitignore
-
-!.idea/
-!.idea/.gitignore
-
-!.github/
-!.github/**
-
-!*승형*/
-!*승형*/**
-
-남우성/
-박정훈/
-천보성/
