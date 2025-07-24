@@ -191,3 +191,11 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 [21939 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
 
+
+<img width="1766" height="943" alt="image" src="https://github.com/user-attachments/assets/ac8a1f59-2e7f-4918-ad56-1416c1de98c4" />
+
+
+- 시간이 많이 없다면 상위 4개 문제 유형을 파는 것도 좋은 전략
+
+- 시간 여유가 있다면 위의 전체 내용 학습 추천
+
