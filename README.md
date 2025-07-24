@@ -192,36 +192,3 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 [21939 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
 
 
-
-<br>
-
-### B형 설명
-
-
-<img width="1766" height="943" alt="image" src="https://github.com/user-attachments/assets/ac8a1f59-2e7f-4918-ad56-1416c1de98c4" />
-
-
-- 시간이 많이 없다면 상위 4개 문제 유형을 파는 것도 좋은 전략
-
-- 시간 여유가 있다면 위의 전체 내용 학습 추천
-
-- 코드 리뷰는 따로 하지 않고, 시간안에 결과값만 잘 나오면 됨
-
-- 기출을 많이 푸는 게 가장 좋고, 기출 풀면서 함수형 풀이에 익숙해지면 좋음
-
-#### 문제 예시
-
-<img width="1757" height="917" alt="image" src="https://github.com/user-attachments/assets/97619c64-068f-4f3d-9eae-542c4859a8a7" />
-
-<img width="1791" height="965" alt="image" src="https://github.com/user-attachments/assets/45a843f0-bfac-4859-88be-00c2ba4a2fbd" />
-
-<img width="1802" height="983" alt="image" src="https://github.com/user-attachments/assets/622ebf69-8e87-4f2e-a0b7-88dbd0dc7f52" />
-
-
-#### 참고사항 및 팁
-
-<img width="783" height="629" alt="image" src="https://github.com/user-attachments/assets/bcfb35d3-b1cc-4364-87fa-4f204c7c27a4" />
-
-<img width="1570" height="344" alt="image" src="https://github.com/user-attachments/assets/f6daddd4-f7f8-4dd1-88d6-0ec041adb759" />
-
-
