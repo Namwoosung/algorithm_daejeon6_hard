@@ -222,4 +222,6 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 <img width="783" height="629" alt="image" src="https://github.com/user-attachments/assets/bcfb35d3-b1cc-4364-87fa-4f204c7c27a4" />
 
+<img width="1570" height="344" alt="image" src="https://github.com/user-attachments/assets/f6daddd4-f7f8-4dd1-88d6-0ec041adb759" />
+
 
