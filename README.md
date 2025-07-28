@@ -109,8 +109,10 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 ### ✅ 7차시
 #### `백트래킹`
-~~- [ ] 실버 문제: ([2529 부등호](https://www.acmicpc.net/problem/2529))~~
+~~- [ ] 실버 문제: ([2529 부등호](https://www.acmicpc.net/problem/2529))~~ <br>
 ~~- [ ] 골드 문제: ([16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987))~~
+
+#### `다익스트라`
 - [ ] 골드 문제: ([1238 파티](https://www.acmicpc.net/problem/1238))
 
 ### ✅ 8차시
