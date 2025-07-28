@@ -109,13 +109,13 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 ### ✅ 7차시
 #### `백트래킹`
-- [ ] 실버 문제: ([1325 효율적인 해킹](https://www.acmicpc.net/problem/1325))
-- [ ] 골드 문제: ([3584 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584))
+- [ ] 실버 문제: ([2529 부등호](https://www.acmicpc.net/problem/2529))
+- [ ] 골드 문제: ([16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987))
 
 ### ✅ 8차시
-#### `그리디`
-- [ ] 실버 문제: ([2529 부등호](https://www.acmicpc.net/problem/2529))
-- [ ] 골드 문제: ([19942 다이어트](https://www.acmicpc.net/problem/19942))
+#### `시뮬레이션`
+- [ ] 실버 문제: ([13335 트럭](https://www.acmicpc.net/problem/13335))
+- [ ] 골드 문제: ([11559 Puyo Puyo](https://www.acmicpc.net/problem/11559))
 
 ### ✅ 9차시
 #### `우선순위 큐`
