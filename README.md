@@ -116,12 +116,10 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 - [ ] 골드 문제: ([1238 파티](https://www.acmicpc.net/problem/1238))
 
 ### ✅ 8차시
-#### `시뮬레이션`
 - [ ] 실버 문제: ([13335 트럭](https://www.acmicpc.net/problem/13335))
 - [ ] 골드 문제: ([11559 Puyo Puyo](https://www.acmicpc.net/problem/11559))
 
 ### ✅ 9차시
-#### `우선순위 큐`
 - [ ] 실버 문제: ([15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903))
 - [ ] 골드 문제: ([13974 파일 합치기 3](https://www.acmicpc.net/problem/13975))
 
