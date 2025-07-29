@@ -47,7 +47,7 @@ public class BOJ_2665 {
                 int nr = p.r + dr[d];
                 int nc = p.c + dc[d];
 
-                if (nr < 0 || nr >= N || nc < 0 || nc >= N) continue;
+                if (nr >= 0 && nr < N && nc >= 0 && nc < N) continue;
 
                 int cost = dist[p.r][p.c] + (map[nr][nc] == 0 ? 1 : 0);
 
