@@ -47,16 +47,17 @@ public class BOJ_2665 {
                 int nr = p.r + dr[d];
                 int nc = p.c + dc[d];
 
-                if (nr >= 0 && nr < N && nc >= 0 && nc < N) continue;
+                if (nr >= 0 && nr < N && nc >= 0 && nc < N) {
 
-                int cost = dist[p.r][p.c] + (map[nr][nc] == 0 ? 1 : 0);
+                    int cost = dist[p.r][p.c] + (map[nr][nc] == 0 ? 1 : 0);
 
-                if (cost < dist[nr][nc]) {
-                    dist[nr][nc] = cost;
-                    if (map[nr][nc] == 1) {
-                        dq.addFirst(new Pair(nr, nc));
-                    } else {
-                        dq.addLast(new Pair(nr, nc));
+                    if (cost < dist[nr][nc]) {
+                        dist[nr][nc] = cost;
+                        if (map[nr][nc] == 1) {
+                            dq.addFirst(new Pair(nr, nc));
+                        } else {
+                            dq.addLast(new Pair(nr, nc));
+                        }
                     }
                 }
             }
