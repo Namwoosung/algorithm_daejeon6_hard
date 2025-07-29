@@ -42,6 +42,7 @@ public class BOJ_1238 {
             if(i != X)
                 ans = Math.max(bfs(i)[X] + distFromX[i], ans);
         }
+
         System.out.println(ans);
     }
 
