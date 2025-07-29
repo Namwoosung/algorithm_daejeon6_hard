@@ -9,14 +9,12 @@ public class BOJ_2665 {
     static int[] dr = {-1, 1, 0, 0};
     static int[] dc = {0, 0, -1, 1};
 
-
     static class Pair {
         int r, c;
         Pair(int r, int c) {
             this.r = r; this.c = c;
         }
     }
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
