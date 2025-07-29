@@ -9,6 +9,7 @@ public class BOJ_2665 {
     static int[] dr = {-1, 1, 0, 0};
     static int[] dc = {0, 0, -1, 1};
 
+
     static class Pair {
         int r, c;
         Pair(int r, int c) {
