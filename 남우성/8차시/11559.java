@@ -41,7 +41,7 @@ public class Main {
 			bomb();
 		}
 		
-		System.out.println(result);
+		System.out.print(result);
 	}
 	
 	static void bomb() {
