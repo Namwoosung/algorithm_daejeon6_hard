@@ -71,55 +71,55 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 <br>
 
-## 1주차
+### ✅ 1주차
 
-### ✅ 1차시
-- [ ] 실버 문제: ([10164 격자상의 경로](https://www.acmicpc.net/problem/10164))
-- [ ] 골드 문제: ([2631 줄세우기](https://www.acmicpc.net/problem/2631))
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 1차시 | 실버   | 격자상의 경로           | [10164](https://www.acmicpc.net/problem/10164)                     |              |
+|       | 골드   | 줄세우기                | [2631](https://www.acmicpc.net/problem/2631)                       |              |
+| 2차시 | 실버   | 효율적인 해킹           | [1325](https://www.acmicpc.net/problem/1325)                       |              |
+|       | 골드   | 가장 가까운 공통 조상   | [3584](https://www.acmicpc.net/problem/3584)                       |              |
+| 3차시 | 실버   | 한 줄로 서기            | [1138](https://www.acmicpc.net/problem/1138)                       |              |
+|       | 골드   | 꿀 따기                 | [21758](https://www.acmicpc.net/problem/21758)                     |              |
+| 4차시 | 실버   | 인형들                  | [15954](https://www.acmicpc.net/problem/15954)                     |              |
+|       | 골드   | A와 B 2                 | [12919](https://www.acmicpc.net/problem/12919)                     |              |
+| 5차시 | 골드   | 미세먼지 안녕!          | [17144](https://www.acmicpc.net/problem/17144)                     | 삼성 SW 기출 |
+|       | 골드   | 청소년 상어             | [19236](https://www.acmicpc.net/problem/19236)                     | 삼성 SW 기출 |
 
-### ✅ 2차시
-- [ ] 실버 문제: ([1325 효율적인 해킹](https://www.acmicpc.net/problem/1325))
-- [ ] 골드 문제: ([3584 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584))
+---
 
-### ✅ 3차시
-- [ ] 실버 문제: ([1138 한 줄로 서기](https://www.acmicpc.net/problem/1138))
-- [ ] 골드 문제: ([21758 꿀 따기](https://www.acmicpc.net/problem/21758))
+### ✅ 2주차
 
-### ✅ 4차시
-- [ ] 실버 문제: ([15954 인형들](https://www.acmicpc.net/problem/15954))
-- [ ] 골드 문제: ([12919 A와 B 2](https://www.acmicpc.net/problem/12919))
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 6차시 | 실버   | 지름길                  | [1446](https://www.acmicpc.net/problem/1446)                       |              |
+|       | 골드   | 미로만들기              | [2665](https://www.acmicpc.net/problem/2665)                       |              |
+| 7차시 | 골드   | 파티                    | [1238](https://www.acmicpc.net/problem/1238)                       | 대체 문제    |
+| 8차시 | 실버   | 트럭                    | [13335](https://www.acmicpc.net/problem/13335)                     |              |
+|       | 골드   | Puyo Puyo              | [11559](https://www.acmicpc.net/problem/11559)                     |              |
+| 9차시 | 실버   | 카드 합체 놀이          | [15903](https://www.acmicpc.net/problem/15903)                     |              |
+|       | 골드   | 파일 합치기 3           | [13975](https://www.acmicpc.net/problem/13975)                     |              |
+| 10차시| 골드   | 감시                    | [15683](https://www.acmicpc.net/problem/15683)                     | 삼성 SW 기출 |
+|       | 골드   | 2048 (Easy)            | [12100](https://www.acmicpc.net/problem/12100)                     | 삼성 SW 기출 |
 
-### ✅ 5차시
-#### `삼성 SW 기출`
-- [ ] 문제1: ([17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144))
-- [ ] 문제2: ([19236 청소년 상어](https://www.acmicpc.net/problem/19236))
 
-<br>
+---
 
-## 2주차
+### ✅ 3주차
 
-### ✅ 6차시
-- [ ] 실버 문제: ([1446 지름길](https://www.acmicpc.net/problem/1446))
-- [ ] 골드 문제: ([2665 미로만들기](https://www.acmicpc.net/problem/2665))
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 11차시 | 실버   | 보석상자                  | [2792](https://www.acmicpc.net/problem/2792)                       |              |
+|       | 골드   | 공유기 설치              | [2110](https://www.acmicpc.net/problem/2110)                       |              |
+| 13차시 | 골드   | 집합의 표현                    | [1717](https://www.acmicpc.net/problem/1717)                       |     |
+|       | 골드   | 친구 네트워크                    | [4195](https://www.acmicpc.net/problem/4195)                       |     |
+| 13차시 | 골드   | 최솟값과 촤댓값                    | [2357](https://www.acmicpc.net/problem/2357)                     |              |
+|       | 플레   | 히스토그램              | [1725](https://www.acmicpc.net/problem/1725)                     |              |
+| 14차시 | 골드   | 트리와 쿼리          | [15681](https://www.acmicpc.net/problem/15681)                     |              |
+|       | 골드   | 우수 마을          | [1949](https://www.acmicpc.net/problem/1949)                     |              |
+| 15차시| 골드   | 나무 재테크                    | [16235](https://www.acmicpc.net/problem/16235)                     | 삼성 SW 기출 |
+|       | 골드   | 구슬 탈출 2            | [13460](https://www.acmicpc.net/problem/13460)                     | 삼성 SW 기출 |
 
-### ✅ 7차시
-~~- [ ] 실버 문제: ([2529 부등호](https://www.acmicpc.net/problem/2529))~~ <br>
-~~- [ ] 골드 문제: ([16987 계란으로 계란치기](https://www.acmicpc.net/problem/16987))~~
-
-- [ ] 골드 문제: ([1238 파티](https://www.acmicpc.net/problem/1238))
-
-### ✅ 8차시
-- [ ] 실버 문제: ([13335 트럭](https://www.acmicpc.net/problem/13335))
-- [ ] 골드 문제: ([11559 Puyo Puyo](https://www.acmicpc.net/problem/11559))
-
-### ✅ 9차시
-- [ ] 실버 문제: ([15903 카드 합체 놀이](https://www.acmicpc.net/problem/15903))
-- [ ] 골드 문제: ([13974 파일 합치기 3](https://www.acmicpc.net/problem/13975))
-
-### ✅ 10차시
-#### `삼성 SW 기출`
-- [ ] 문제1: ([15683 감시](https://www.acmicpc.net/problem/15683))
-- [ ] 문제2: ([12100 2048 (Easy)](https://www.acmicpc.net/problem/12100))
 
 <br>
 
@@ -174,13 +174,13 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 ---
 <br>
 
-#### DP
+#### `DP`
 - 10164, 2631
-#### 그래프(탐색)
+#### `그래프(탐색)`
 - 1325, 3584
-#### 그리디
+#### `그리디`
 - 1138, 21758
-#### 브루트포스
+#### `브루트포스`
 - 15954, 19236
 #### `다익스트라`
 - 1446, 2665, 1238
@@ -190,9 +190,16 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 - 13335, 11559
 #### `우선순위 큐`
 - 15903, 12100, 2048
-
-
-
+#### `이분탐색`
+- 2792, 2110
+#### `유니온 파인드`
+- 1717, 4195
+#### `세그먼트트리`
+- 2357, 1725
+#### `트리 + DP`
+- 15681, 1949
+#### `삼성 SW 기출`
+- 17144, 19236, 15683, 12100, 16235, 13460
 
 <br>
 
