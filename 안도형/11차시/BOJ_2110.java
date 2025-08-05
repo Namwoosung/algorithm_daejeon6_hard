@@ -16,6 +16,7 @@ public class BOJ_2110 {
             arr[i] = Integer.parseInt(br.readLine());
         Arrays.sort(arr);
 
+
         int start = 1;
         int end = arr[N - 1];
         int ans = 0;
