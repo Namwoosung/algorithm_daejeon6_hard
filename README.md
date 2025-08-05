@@ -111,13 +111,13 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
 | 11차시 | 실버   | 보석상자                  | [2792](https://www.acmicpc.net/problem/2792)                       |              |
 |       | 골드   | 공유기 설치              | [2110](https://www.acmicpc.net/problem/2110)                       |              |
-| 13차시 |  a형 기출  |        게리멘더링             | [17471](https://www.acmicpc.net/problem/17471)                       |     |
+| 12차시 |  a형 기출  |        게리멘더링             | [17471](https://www.acmicpc.net/problem/17471)                       |     |
 |       | 모의 SW 테스트   |  홈 방범 서비스                    | [swea_2117](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu)                       |     |
-| 13차시 | a형 기출   | 나무 높이                    | [swea_14510](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)                     |              |
+| 13차시(08/06) | a형 기출   | 나무 높이                    | [swea_14510](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)                     |              |
 |       | 모의 SW 테스트   | 탈주범 검거              | [swea_1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)                     |              |
-| 14차시 | a형 기출   | 보급로         | [swea_1249](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)                     |              |
+| 14차시(08/07) | a형 기출   | 보급로         | [swea_1249](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)                     |              |
 |       | 모의 SW 테스트   | 디저트 카페         | [swea_2105](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)                     |              |
-| 15차시| a형 기출   | 헌터(pdf 복원문제)                    | x                     |  |
+| 15차시(08/08) | a형 기출   | 헌터(pdf 복원문제)                    | x                     |  |
 |       | 모의 SW 테스트   | 활주로 건설           | [swea_4014](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)                     |  |
 
 
@@ -127,15 +127,15 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 | 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
-| 11차시 | a형 기출   | 키 순서                  | [swea_5643](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo)                       |              |
+| 16차시(08/11) | a형 기출   | 키 순서                  | [swea_5643](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo)                       |              |
 |       | 모의 SW 테스트   | 무선 충전              | [swea_5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)                       |              |
-| 13차시 | a형 기출   | 프로세서 연결하기                    | [swea_1767](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)                       |     |
+| 17차시(08/12) | a형 기출   | 프로세서 연결하기                    | [swea_1767](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)                       |     |
 |       | 모의 SW 테스트   | 줄기세포 배양                   | [swea_5653](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)                       |     |
-| 13차시 | a형 기출   | 등산로 조성                    | [swea_1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)                     |              |
+| 18차시(08/13) | a형 기출   | 등산로 조성                    | [swea_1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)                     |              |
 |       | 모의 SW 테스트   | 벽돌깨기              | [swea_5656](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)                     |              |
-| 14차시 | a형 기출   | 다리 만들기2          | [17472](https://www.acmicpc.net/problem/17472)                     |              |
+| 19차시(08/14) | a형 기출   | 다리 만들기2          | [17472](https://www.acmicpc.net/problem/17472)                     |              |
 |       | 모의 SW 테스트   | 미생물 격리          | [swea_2382](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)                     |              |
-| 15차시| a형 기출   | 게리맨더링2                    | [17779](https://www.acmicpc.net/problem/17779)                     |  |
+| 20차시(08/15)| a형 기출   | 게리맨더링2                    | [17779](https://www.acmicpc.net/problem/17779)                     |  |
 |       | 모의 SW 테스트   | 사과나무            | [19539](https://www.acmicpc.net/problem/19539)                     |  |
 
 
@@ -146,15 +146,15 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 | 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
-| 11차시 |  a형 기출  |                   |                       |              |
+| 21차시(08/18) |  a형 기출  |                   |                       |              |
 |       |  모의 SW 테스트  |               |                       |              |
-| 13차시 | 골드   | 집합의 표현                    | [1717](https://www.acmicpc.net/problem/1717)                       |     |
+| 22차시(08/19) | 골드   | 집합의 표현                    | [1717](https://www.acmicpc.net/problem/1717)                       |     |
 |       | 골드   | 친구 네트워크                    | [4195](https://www.acmicpc.net/problem/4195)                       |     |
-| 13차시 | 골드   | 최솟값과 촤댓값                    | [2357](https://www.acmicpc.net/problem/2357)                     |              |
+| 23차시(08/20) | 골드   | 최솟값과 촤댓값                    | [2357](https://www.acmicpc.net/problem/2357)                     |              |
 |       | 플레   | 히스토그램              | [1725](https://www.acmicpc.net/problem/1725)                     |              |
-| 14차시 | 골드   | 트리와 쿼리          | [15681](https://www.acmicpc.net/problem/15681)                     |              |
+| 24차시(08/21) | 골드   | 트리와 쿼리          | [15681](https://www.acmicpc.net/problem/15681)                     |              |
 |       | 골드   | 우수 마을          | [1949](https://www.acmicpc.net/problem/1949)                     |              |
-| 15차시| 골드   | 나무 재테크                    | [16235](https://www.acmicpc.net/problem/16235)                     | 삼성 SW 기출 |
+| 25차시(08/22)| 골드   | 나무 재테크                    | [16235](https://www.acmicpc.net/problem/16235)                     | 삼성 SW 기출 |
 |       | 골드   | 구슬 탈출 2            | [13460](https://www.acmicpc.net/problem/13460)                     | 삼성 SW 기출 |
 
 
