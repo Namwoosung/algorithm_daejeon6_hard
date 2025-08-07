@@ -15,7 +15,6 @@ public class swea_14510
         for(int t = 0; t < T; t++) {
             int N = Integer.parseInt(br.readLine());
             st = new StringTokenizer(br.readLine());
-
             ArrayList<Integer> arr = new ArrayList<Integer>();
 
             int maxHeight = 0;
@@ -30,8 +29,8 @@ public class swea_14510
 
     public static int cutTree(ArrayList<Integer> arr, int maxHeight) {
         int day = 0;
-        int oddCount = 0;  // 2cm 남은 경우
-        int evenCount = 0; // 1cm 남은 경우
+        int oddCount = 0;
+        int evenCount = 0;
 
         for (int h : arr) {
             if (maxHeight != h) {
