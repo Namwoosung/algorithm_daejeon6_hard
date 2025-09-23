@@ -1,0 +1,36 @@
+package algo_hard;
+
+import java.io.*;
+import java.util.*;
+
+public class BOJ_1214 {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        
+        int D = Integer.parseInt(st.nextToken());
+        int P = Integer.parseInt(st.nextToken());
+        int Q = Integer.parseInt(st.nextToken());
+
+        if (P < Q) {
+            int tmp = P;
+            P = Q;
+            Q = tmp;
+        }
+
+        int ans = Integer.MAX_VALUE;
+
+        for (int i = 0; i <= D / Q + 1; i++) {
+        	int tmp = i * Q;
+            if (tmp >= D) {
+                ans = Math.min(ans, tmp);
+            } else {
+            	int remain = D - tmp;
+            	int add = ((remain + P - 1) / P) * P;
+                ans = Math.min(ans, tmp + add);
+            }
+        }
+
+        System.out.println(ans);
+    }
+}
