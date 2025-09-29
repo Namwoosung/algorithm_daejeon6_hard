@@ -65,15 +65,14 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 <br>
 
-### ✅ 5주차
+### ✅ 6주차
 
 | 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
-| 19차시(09/22) | 플레   | 쿨한 물건 구매           | [1214](https://www.acmicpc.net/problem/1214)                     |              |
-| 20차시(09/23) | 골드   | 보석 도둑           | [1202](https://www.acmicpc.net/problem/1202)                       |       기업 코테 문제집       |
-| 21차시(09/24) | 플레   | 히스토그램에서 가장 큰 직사각형            | [6549](https://www.acmicpc.net/problem/6549)                       |    단기간 성장 문제집          |
-| 22차시(09/25) | 플레   | 도로포장                  | [1162](https://www.acmicpc.net/problem/1162)                     |              |
-| 23차시(09/26) | 골드   | 택배          | [8980](https://www.acmicpc.net/problem/8980)                     | 기업 코테 문제집집  |
+| 23차시(09/29) | 골드   | 우수마을           |  [1949](https://www.acmicpc.net/problem/1949)                     |     기업 코테 문제집         |
+| 24차시(09/30) | 플레   | 버블소트           |  [1517](https://www.acmicpc.net/problem/1517)                       |              |
+| 25차시(10/01) | 골드   |   여왕벌          |  [10836](https://www.acmicpc.net/problem/10836)                       |    기업 코테 문제집          |
+| 26차시(10/02) | 플레   | 행성 터널                  |  [2887](https://www.acmicpc.net/problem/2887)                     |              |
 
 
 
@@ -195,6 +194,18 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 | 18차시(08/13) | a형 기출   | 등산로 조성                    | [swea_1949](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq)                     |              |
 |       | 모의 SW 테스트   | 벽돌깨기              | [swea_5656](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)                     |              |
 
+
+---
+
+### ✅ 5주차
+
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 19차시(09/22) | 플레   | 쿨한 물건 구매           | [1214](https://www.acmicpc.net/problem/1214)                     |              |
+| 20차시(09/23) | 골드   | 보석 도둑           | [1202](https://www.acmicpc.net/problem/1202)                       |       기업 코테 문제집       |
+| 21차시(09/24) | 플레   | 히스토그램에서 가장 큰 직사각형            | [6549](https://www.acmicpc.net/problem/6549)                       |    단기간 성장 문제집          |
+| 22차시(09/25) | 플레   | 도로포장                  | [1162](https://www.acmicpc.net/problem/1162)                     |              |
+| 23차시(09/26) | 골드   | 택배          | [8980](https://www.acmicpc.net/problem/8980)                     | 기업 코테 문제집집  |
 
 
 <br>
