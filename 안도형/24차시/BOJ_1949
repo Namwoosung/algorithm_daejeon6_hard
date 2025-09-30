@@ -1,0 +1,58 @@
+package algo_hard;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+public class BOJ_1949 {
+	public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        
+        int N = Integer.parseInt(st.nextToken());
+        boolean[] visited = new boolean[N+1];
+        int[] city = new int[N+1];
+        int[][] dp = new int[N+1][2];
+        ArrayList<Integer>[] node = new ArrayList[N+1];
+        
+        
+        st = new StringTokenizer(br.readLine());
+        for(int i = 1; i <= N; i++) {
+        	node[i] = new ArrayList<>();
+        	city[i] = Integer.parseInt(st.nextToken());
+        }
+        for(int i = 1; i < N; i++) {
+        	st = new StringTokenizer(br.readLine());
+        	int a = Integer.parseInt(st.nextToken());
+        	int b = Integer.parseInt(st.nextToken());
+        	node[a].add(b);
+        	node[b].add(a);
+        }
+        
+        ArrayDeque<Integer> dq = new ArrayDeque<>();
+        dq.add(1);
+        
+        while(!dq.isEmpty()) {
+        	int curr = dq.poll();
+        
+        	if(visited[curr]) continue;
+        	visited[curr] = true;
+        	
+        	
+        	for(int nn : node[curr]) {
+        		//선택할때 
+        		dp[curr][0] = Math.max(dp[curr][0], dp[nn][1]);
+        		dp[curr][1] = dp[nn][0] + city[curr];
+        		dq.add(nn);
+        	}
+        }
+     
+        int result = 0;
+        for(int i = 1; i <= N; i++) {
+        	result = Math.max(Math.max(dp[i][0], dp[i][1]), result);
+        }
+        System.out.println(result);
+	}
+}
