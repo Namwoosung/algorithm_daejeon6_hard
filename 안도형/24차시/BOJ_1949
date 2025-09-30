@@ -6,6 +6,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
+
 public class BOJ_1949 {
 	public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -40,10 +41,10 @@ public class BOJ_1949 {
         	if(visited[curr]) continue;
         	visited[curr] = true;
         	
-        	
         	for(int nn : node[curr]) {
-        		//선택할때 
+        		//선택안할 때
         		dp[curr][0] = Math.max(dp[curr][0], dp[nn][1]);
+				//할 때
         		dp[curr][1] = dp[nn][0] + city[curr];
         		dq.add(nn);
         	}
