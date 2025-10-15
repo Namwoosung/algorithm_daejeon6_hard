@@ -53,7 +53,8 @@ public class BOJ_2632 {
         			sizeB[sum]++;
         	}
         }
-        
+
+		//개수가 넘을 수도
         long count = 0;
         sizeA[0] = sizeB[0] = 1;
         for(int i = 0; i <= size; i++) 
