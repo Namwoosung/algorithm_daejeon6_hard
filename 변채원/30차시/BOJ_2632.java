@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class BOJ_2632 {
+    
     public static int N;
     public static int[] count;
     public static boolean[] visited;
