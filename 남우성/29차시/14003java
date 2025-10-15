@@ -1,0 +1,82 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Deque;
+import java.util.List;
+import java.util.StringTokenizer;
+
+public class Main{
+	static class Insertion implements Comparable<Insertion>{
+		int insertIndex;
+		int value;
+		
+		public Insertion(int insertIndex, int value) {
+			this.insertIndex = insertIndex;
+			this.value = value;
+		}
+
+		@Override
+		public int compareTo(Insertion o) {
+			return this.insertIndex - o.insertIndex;
+		}
+	}
+	
+	public static void main(String[] args) throws Exception{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st;
+		StringBuilder sb = new StringBuilder();
+		
+		int N = Integer.parseInt(br.readLine());
+		
+		int[] arr = new int[N];
+		
+		st = new StringTokenizer(br.readLine());
+		for(int i = 0; i < N; i++) {
+			arr[i] = Integer.parseInt(st.nextToken());
+		}
+		
+		List<Insertion>[] history = new ArrayList[N];
+		for(int i = 0; i < N; i++) {
+			history[i] = new ArrayList<>();
+		}
+		
+		List<Integer> lsi = new ArrayList<>();
+		
+		int maxIndex = 0;
+		for(int i = 0; i < N; i++) {
+			int index = Collections.binarySearch(lsi, arr[i]);
+			
+			// 없는 경우만 처리
+			if(index < 0) {
+				int insertIndex = (index + 1) * -1;
+				maxIndex = Math.max(maxIndex, insertIndex);
+				
+				if(insertIndex == lsi.size()) {
+					lsi.add(arr[i]);
+				}else {
+					lsi.set(insertIndex, arr[i]);
+				}
+				history[insertIndex].add(new Insertion(i, arr[i]));
+			}
+		}
+		
+		Deque<Integer> result = new ArrayDeque<>();
+		int nowMaxIndex = N;
+		for(int i = maxIndex; i >= 0; i--) {
+			Insertion temp = new Insertion(nowMaxIndex, -1);
+			int findIndex = Collections.binarySearch(history[i], temp);
+			Insertion now = history[i].get(((findIndex + 1) * -1) - 1);
+			nowMaxIndex = now.insertIndex;
+			result.offerLast(now.value);
+		}
+		
+		sb.append(lsi.size()).append("\n");
+		int turn = result.size();
+		for(int i = 0; i < turn; i++) {
+			sb.append(result.pollLast()).append(" ");
+		}
+		System.out.println(sb);
+	}
+}
