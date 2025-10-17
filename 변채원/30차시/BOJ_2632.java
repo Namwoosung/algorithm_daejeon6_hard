@@ -40,63 +40,46 @@ public class BOJ_2632 {
             counter(arrB, B);
             System.out.println(calc(arrA, A));
         }
-
     }
 
     public static void counter(int[] arr, int len) {
-        int start = 0, end = 0;
-        int size = arr.length - 1;
-        int cnt = 0;
-        while ((start < len) && (end < size)) {
-            if (start > end)
-                return;
+        int total = 0;
 
-            count[cnt]++;
+        for (int i = 0; i < len; i++) {
+            int tmp = 0;
+            total += arr[i];
+            for (int j = i; j < i + len; j++) {
+                tmp += arr[j];
 
-            if ((end - start) >= len)
-                start++;
-
-            if ((cnt + arr[end]) <= N)
-                cnt += arr[end++];
-            else {
-                if (arr[start] <= N)
-                    cnt -= arr[start];
-                start++;
+                if(tmp <= N)
+                    count[tmp]++;
+                else 
+                    break;
             }
         }
+
+        if(total <= N)
+            count[total] -= (len - 1);
     }
 
     public static int calc(int[] arr, int len) {
-        int start = 0, end = 0;
-        int size = arr.length - 1;
-
+        int result = count[N];
         count[0] = 1;
-        int cnt = 0, result = 0;
-        while ((start < len) && (end < size)) {
-            if (start > end)
-                return result;
+        int total = 0;
+        for (int i = 0; i < len; i++) {
+            int cnt = 0;
+            total += arr[i];
+            for (int j = i; j < i + len - 1; j++) {
+                cnt += arr[j];
 
-            if (!visited[N - cnt]) {
-                result += count[N - cnt];
-                visited[N - cnt] = true;
-            }
-
-            if ((end - start) >= len) {
-                if (arr[start] <= N)
-                    cnt -= arr[start];
-                start++;
-                continue;
-            }
-
-            if ((cnt + arr[end]) <= N)
-                cnt += arr[end++];
-            else {
-                if (arr[start] <= N)
-                    cnt -= arr[start];
-                start++;
+                if(cnt <= N)
+                    result += count[N - cnt];
             }
         }
 
+        if(total <= N)
+            result += count[N - total];
+            
         return result;
     }
 }
