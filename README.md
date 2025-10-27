@@ -31,6 +31,9 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 > 3회 누적시 커피 당번
 
+<br>
+
+---
 
 <br>
 
@@ -77,15 +80,15 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 <br>
 
-### ✅ 8주차
+### ✅ 9주차
 
 | 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
-| 33차시(10/20) | 골드   | 성냥개비           |  [3687](https://www.acmicpc.net/problem/3687)                     |              |
-| 34차시(10/21) | 플레   | Strongly Connected Component           |  [2150](https://www.acmicpc.net/problem/2150)                       |              |
-| 35차시(10/22) | 골드   | 문제집          |  [1766](https://www.acmicpc.net/problem/1766)                       |             |
-| 36차시(10/23) | 골드   | 로봇 청소기                  |  [4991](https://www.acmicpc.net/problem/4991)                     |              |
-| 37차시(10/24) | 플레   | 순회공연                  |  [34550](https://www.acmicpc.net/problem/34550)                     |              |
+| 38차시(10/27) | 골드   | 동전분배           |  [1943](https://www.acmicpc.net/problem/1943)                     |              |
+| 39차시(10/28) | 플레   | 책 페이지           |  [1019](https://www.acmicpc.net/problem/1019)                       |              |
+| 40차시(10/29) | 골드   | 뉴스 전하기          |  [1135](https://www.acmicpc.net/problem/1135)                       |             |
+| 41차시(10/30) | 골드   | 연결                  |  [5022](https://www.acmicpc.net/problem/5022)                     |              |
+| 42차시(10/31) | 플레   |   구간 합 구하기 3                |  [11658](https://www.acmicpc.net/problem/11658)                     |              |
 
 
 <br>
@@ -243,6 +246,19 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 | 30차시(10/15) | 골드   |   피자판매          |  [2632](https://www.acmicpc.net/problem/2632)                       |             |
 | 31차시(10/16) | 골드   | 로봇 조종하기                  |  [2169](https://www.acmicpc.net/problem/2169)                     |              |
 | 32차시(10/17) | 플레   | 등산 마니아                  |  [20188](https://www.acmicpc.net/problem/20188)                     |              |
+
+<br>
+
+
+### ✅ 8주차
+
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 33차시(10/20) | 골드   | 성냥개비           |  [3687](https://www.acmicpc.net/problem/3687)                     |              |
+| 34차시(10/21) | 플레   | Strongly Connected Component           |  [2150](https://www.acmicpc.net/problem/2150)                       |              |
+| 35차시(10/22) | 골드   | 문제집          |  [1766](https://www.acmicpc.net/problem/1766)                       |             |
+| 36차시(10/23) | 골드   | 로봇 청소기                  |  [4991](https://www.acmicpc.net/problem/4991)                     |              |
+| 37차시(10/24) | 플레   | 순회공연                  |  [34550](https://www.acmicpc.net/problem/34550)                     |              |
 
 <br>
 
