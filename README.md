@@ -13,7 +13,8 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 ### 📅 진행 일정
 - **월요일 ~ 금요일**
   - 백준 **골드 2 ~ 플레 4** 수준의 문제 1개
-
+  - 프로그래머스 **lv3 ~ lv4**
+  
 → 문제 선정: 각자 풀었던 문제 중에 괜찮았던 문제 or **백준 대기업 코테 문제집** 중에서 선별
 
 <br>
@@ -84,11 +85,11 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 
 | 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
 |-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
-| 43차시(11/03) | 골드   | 과외맨           |  [5213](https://www.acmicpc.net/problem/5213)                     |              |
-| 44차시(11/04) | 플레   | 볼록 껍질        |  [1708](https://www.acmicpc.net/problem/1708)                       |              |
-| 45차시(11/05) | 골드   | 계단수          |  [1562](https://www.acmicpc.net/problem/1562)                       |             |
-| 46차시(11/06) | 골드   | 너 봄에는 캡사이신이 맛있단다                  |  [15824](https://www.acmicpc.net/problem/15824)                     |              |
-| 47차시(11/07) | 플레   |   광고                |  [1305](https://www.acmicpc.net/problem/1305)                     |              |
+| 48차시(11/10) | lv3   | 봉인된 주문          |  [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)                     |              |
+| 49차시(11/11) | lv3   | 홀짝트리        |  [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)                       |              |
+| 50차시(11/12) | lv3   | 수식 복원하기         |  [수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210)                       |             |
+| 51차시(11/13) | lv3   | 주사위 고르기                  |  [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)                     |              |
+| 52차시(11/14) | lv4   |   격자 뒤집기 미로                |  [격자 뒤집기 미로](https://school.programmers.co.kr/learn/courses/30/lessons/389630)                     |              |
 
 
 <br>
@@ -271,6 +272,21 @@ SSAFY 14기 대전 6반 HARD 알고리즘 스터디
 | 40차시(10/29) | 골드   | 뉴스 전하기          |  [1135](https://www.acmicpc.net/problem/1135)                       |             |
 | 41차시(10/30) | 골드   | 연결                  |  [5022](https://www.acmicpc.net/problem/5022)                     |              |
 | 42차시(10/31) | 플레   |   구간 합 구하기 3                |  [11658](https://www.acmicpc.net/problem/11658)                     |              |
+
+<br>
+
+### ✅ 10주차
+
+| 차시  | 난이도 | 문제 이름              | 링크                                                               | 비고         |
+|-------|--------|-------------------------|--------------------------------------------------------------------|--------------|
+| 43차시(11/03) | 골드   | 과외맨           |  [5213](https://www.acmicpc.net/problem/5213)                     |              |
+| 44차시(11/04) | 플레   | 볼록 껍질        |  [1708](https://www.acmicpc.net/problem/1708)                       |              |
+| 45차시(11/05) | 골드   | 계단수          |  [1562](https://www.acmicpc.net/problem/1562)                       |             |
+| 46차시(11/06) | 골드   | 너 봄에는 캡사이신이 맛있단다                  |  [15824](https://www.acmicpc.net/problem/15824)                     |              |
+| 47차시(11/07) | 플레   |   광고                |  [1305](https://www.acmicpc.net/problem/1305)                     |              |
+
+
+<br>
 
 ---
 
